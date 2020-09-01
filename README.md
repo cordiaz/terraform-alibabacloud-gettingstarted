@@ -12,3 +12,6 @@ ALICLOUD_SECRET_KEY
 
 For Singapore, the region is ap-southeast-1
 [Alibaba Cloud Regions and Zones](https://www.alibabacloud.com/help/doc-detail/40654.htm)
+
+## References
+[Alibaba Cloud Terraform Provider Documentation](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs)
