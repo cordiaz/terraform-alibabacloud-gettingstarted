@@ -1,7 +1,7 @@
 # Getting started with Terraform on Alibaba Cloud
 
 ## Terraform Configuration
-This Terraform configuration will create a VPC with 3 subnets as shown below.
+This Terraform configuration will create a VPC with 3 subnets as shown below.  
 ![alibabacloud-setup-diagram](https://github.com/nvinod-net/terraform-alibabacloud-gettingstarted/blob/master/alibabacloud-setup.png)
 
 ## Terraform Cloud Environment Varialbles
