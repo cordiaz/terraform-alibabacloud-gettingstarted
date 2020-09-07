@@ -21,3 +21,4 @@ Instruction on how to create the Access Key and Secret Key on Alibaba Cloud refe
 
 ## Webinar Links
 [Slide](https://www.slideshare.net/VinodNarayanankutty/alibaba-cloud-singapore-community-meetup-webinar-3-sep-2020-automate-your-cloud-infrastructure-deployment-with-terraform)  
+[Recording](https://youtu.be/AtPLBAxuafs)
