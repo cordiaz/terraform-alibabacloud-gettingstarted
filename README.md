@@ -18,3 +18,6 @@ Instruction on how to create the Access Key and Secret Key on Alibaba Cloud refe
 ## References
 [Alibaba Cloud Terraform Provider Documentation](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs)  
 [Examples on GitHub](https://github.com/aliyun/terraform-provider-alicloud)
+
+## Webinar Links
+[Slide](https://www.slideshare.net/VinodNarayanankutty/alibaba-cloud-singapore-community-meetup-webinar-3-sep-2020-automate-your-cloud-infrastructure-deployment-with-terraform)  
